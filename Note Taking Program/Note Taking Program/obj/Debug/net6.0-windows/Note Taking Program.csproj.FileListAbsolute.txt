@@ -1,0 +1,17 @@
+C:\Users\Jon\source\repos\Note-Taking-Program\Note Taking Program\Note Taking Program\bin\Debug\net6.0-windows\Note Taking Program.exe
+C:\Users\Jon\source\repos\Note-Taking-Program\Note Taking Program\Note Taking Program\bin\Debug\net6.0-windows\Note Taking Program.deps.json
+C:\Users\Jon\source\repos\Note-Taking-Program\Note Taking Program\Note Taking Program\bin\Debug\net6.0-windows\Note Taking Program.runtimeconfig.json
+C:\Users\Jon\source\repos\Note-Taking-Program\Note Taking Program\Note Taking Program\bin\Debug\net6.0-windows\Note Taking Program.dll
+C:\Users\Jon\source\repos\Note-Taking-Program\Note Taking Program\Note Taking Program\bin\Debug\net6.0-windows\Note Taking Program.pdb
+C:\Users\Jon\source\repos\Note-Taking-Program\Note Taking Program\Note Taking Program\obj\Debug\net6.0-windows\Note Taking Program.csproj.AssemblyReference.cache
+C:\Users\Jon\source\repos\Note-Taking-Program\Note Taking Program\Note Taking Program\obj\Debug\net6.0-windows\Note_Taking_Program.Form1.resources
+C:\Users\Jon\source\repos\Note-Taking-Program\Note Taking Program\Note Taking Program\obj\Debug\net6.0-windows\Note Taking Program.csproj.GenerateResource.cache
+C:\Users\Jon\source\repos\Note-Taking-Program\Note Taking Program\Note Taking Program\obj\Debug\net6.0-windows\Note Taking Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\source\repos\Note-Taking-Program\Note Taking Program\Note Taking Program\obj\Debug\net6.0-windows\Note Taking Program.AssemblyInfoInputs.cache
+C:\Users\Jon\source\repos\Note-Taking-Program\Note Taking Program\Note Taking Program\obj\Debug\net6.0-windows\Note Taking Program.AssemblyInfo.cs
+C:\Users\Jon\source\repos\Note-Taking-Program\Note Taking Program\Note Taking Program\obj\Debug\net6.0-windows\Note Taking Program.csproj.CoreCompileInputs.cache
+C:\Users\Jon\source\repos\Note-Taking-Program\Note Taking Program\Note Taking Program\obj\Debug\net6.0-windows\Note Taking Program.dll
+C:\Users\Jon\source\repos\Note-Taking-Program\Note Taking Program\Note Taking Program\obj\Debug\net6.0-windows\refint\Note Taking Program.dll
+C:\Users\Jon\source\repos\Note-Taking-Program\Note Taking Program\Note Taking Program\obj\Debug\net6.0-windows\Note Taking Program.pdb
+C:\Users\Jon\source\repos\Note-Taking-Program\Note Taking Program\Note Taking Program\obj\Debug\net6.0-windows\Note Taking Program.genruntimeconfig.cache
+C:\Users\Jon\source\repos\Note-Taking-Program\Note Taking Program\Note Taking Program\obj\Debug\net6.0-windows\ref\Note Taking Program.dll
