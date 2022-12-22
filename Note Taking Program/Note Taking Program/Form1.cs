@@ -27,20 +27,47 @@ namespace Note_Taking_Program
 
         private void buttonNew_Click(object sender, EventArgs e)
         {
-            table.Rows.Add(textTitle.Text, textMessage.Text);
+            if (textTitle.Text.Length > 0)
+            {
 
-            textTitle.Clear();
-            textMessage.Clear();
+                table.Rows.Add(textTitle.Text, textMessage.Text);
+
+                textTitle.Clear();
+                textMessage.Clear();
+
+            }
+            else if (textMessage.Text.Length > 0)
+            {
+                MessageBox.Show("Please enter in a Title before saving");
+            }
+            else
+            {
+                MessageBox.Show("Please enter in data before saving");
+            }
         }
 
         private void buttonSave_Click(object sender, EventArgs e)
         {
-            table.Rows.Add(textTitle.Text, textMessage.Text);
+            //Refuses to save if there is no title. 
+            if (textTitle.Text.Length > 0)
+            {
 
-            textTitle.Clear();
-            textMessage.Clear();
+                table.Rows.Add(textTitle.Text, textMessage.Text);
+
+                textTitle.Clear();
+                textMessage.Clear();
+
+            }
+            else if (textMessage.Text.Length > 0)
+            {
+                MessageBox.Show("Please enter in a Title before saving");
+            }
+            else
+            {
+                MessageBox.Show("Please enter in data before saving");
+            }
+
         }
-
         private void buttonRead_Click(object sender, EventArgs e)
         {
             //Ensure there is data in the data grid
