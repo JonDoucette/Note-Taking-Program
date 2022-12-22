@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jon\\source\\repos\\Note-Taking-Program\\Note Taking Program\\Note Taking Program\\Note Taking Program.csproj": {}
+    "C:\\Users\\Jon\\Source\\Repos\\Note-Taking-Program\\Note Taking Program\\Note Taking Program\\Note Taking Program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jon\\source\\repos\\Note-Taking-Program\\Note Taking Program\\Note Taking Program\\Note Taking Program.csproj": {
+    "C:\\Users\\Jon\\Source\\Repos\\Note-Taking-Program\\Note Taking Program\\Note Taking Program\\Note Taking Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jon\\source\\repos\\Note-Taking-Program\\Note Taking Program\\Note Taking Program\\Note Taking Program.csproj",
+        "projectUniqueName": "C:\\Users\\Jon\\Source\\Repos\\Note-Taking-Program\\Note Taking Program\\Note Taking Program\\Note Taking Program.csproj",
         "projectName": "Note Taking Program",
-        "projectPath": "C:\\Users\\Jon\\source\\repos\\Note-Taking-Program\\Note Taking Program\\Note Taking Program\\Note Taking Program.csproj",
+        "projectPath": "C:\\Users\\Jon\\Source\\Repos\\Note-Taking-Program\\Note Taking Program\\Note Taking Program\\Note Taking Program.csproj",
         "packagesPath": "C:\\Users\\Jon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jon\\source\\repos\\Note-Taking-Program\\Note Taking Program\\Note Taking Program\\obj\\",
+        "outputPath": "C:\\Users\\Jon\\Source\\Repos\\Note-Taking-Program\\Note Taking Program\\Note Taking Program\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
