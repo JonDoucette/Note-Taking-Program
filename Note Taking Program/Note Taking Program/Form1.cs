@@ -43,20 +43,27 @@ namespace Note_Taking_Program
 
         private void buttonRead_Click(object sender, EventArgs e)
         {
-            int index = dataGridView1.CurrentCell.RowIndex;
-                
-            if (index > -1)
+            //Ensure there is data in the data grid
+            if (dataGridView1.Rows.Count > 0)
             {
-                textTitle.Text = table.Rows[index]["Title"].ToString();
-                textMessage.Text = table.Rows[index]["Messages"].ToString();
-            }
+                int index = dataGridView1.CurrentCell.RowIndex;
+
+                if (index > -1)
+                {
+                    textTitle.Text = table.Rows[index]["Title"].ToString();
+                    textMessage.Text = table.Rows[index]["Messages"].ToString();
+                }
+            };
         }
 
         private void buttonDelete_Click(object sender, EventArgs e)
         {
-            int index = dataGridView1.CurrentCell.RowIndex;
-
-            table.Rows[index].Delete();
+            //Ensure there is data in the data grid
+            if (dataGridView1.Rows.Count > 0) 
+            {
+                int index = dataGridView1.CurrentCell.RowIndex;
+                table.Rows[index].Delete();
+            }
         }
     }
 }
