@@ -38,11 +38,11 @@ namespace Note_Taking_Program
             }
             else if (textMessage.Text.Length > 0)
             {
-                MessageBox.Show("Please enter in a Title before saving");
+                MessageBox.Show("Please enter in a Title before saving", "Unable to Save");
             }
             else
             {
-                MessageBox.Show("Please enter in data before saving");
+                MessageBox.Show("Please enter in data before saving", "Unable to Save");
             }
         }
 
@@ -60,11 +60,11 @@ namespace Note_Taking_Program
             }
             else if (textMessage.Text.Length > 0)
             {
-                MessageBox.Show("Please enter in a Title before saving");
+                MessageBox.Show("Please enter in a Title before saving", "Unable to Save");
             }
             else
             {
-                MessageBox.Show("Please enter in data before saving");
+                MessageBox.Show("Please enter in data before saving", "Unable to Save");
             }
 
         }
@@ -91,6 +91,11 @@ namespace Note_Taking_Program
                 int index = dataGridView1.CurrentCell.RowIndex;
                 table.Rows[index].Delete();
             }
+        }
+
+        private void buttonClear_Click(object sender, EventArgs e)
+        {
+            textMessage.Text = "";
         }
     }
 }
